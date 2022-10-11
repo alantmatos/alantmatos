@@ -5,10 +5,10 @@
 <br> 
 
   <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/alantmatos/)">
+  <a href="https://www.linkedin.com/in/alantmatos">
     <img src="https://img.shields.io/badge/-Linkedin-blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://courageous-alpaca-aca2e9.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-red" alt="portfolio Badge"/>
   </a>
 </div>
