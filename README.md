@@ -16,13 +16,13 @@
 <br>
 
 <div align="center">
-<h2>
-  Hey there, I'm Alan.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
-## Full Stack Software Engineer, Flatiron's grad.
-
+  <h2> Hi, I'm Alan.
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h2>
+  <h3> Full Stack Software Engineer, Flatiron's grad. </h3>
 </div>
+
+- - -
 
 <div align="center">
   <img src="https://media3.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif?cid=790b7611be4c19c346c22881b612aea1f6bc3eeefd572f7b&rid=giphy.gif&ct=g" width="600" height="300"/>
@@ -34,6 +34,7 @@
 
 <div align="center">
   Languages and tools:
+  <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -51,13 +52,18 @@
 
 
   </div>
+  <br>
   
 
 
 
 
 
+
+
 <!--
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alantmatos)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=alantmatos&style=flat-square&color=blue" alt=""/>
 **alantmatos/alantmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
