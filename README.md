@@ -8,15 +8,9 @@
 <div>
   <h5 width="200"> Hello World!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I'm Alan, a curious, creative and passionate Full Stack Software Engineer.<br>
-What I like the most about it is how fast we learn, develop, deploy, <br>
-improve, expand… and through communication and teamwork come up with <br>
-new ideas and completely new designs way more efficient than it was <br>
-just last summer. <br>
-
-My hobbies include video games (even started my own collection), I love aviation <br>
-and I will pursue my private pilot license one day, and taking things apart, from <br>
-electronic devices to cars, I like to fix things and see how they really work. <br>
+I'm Alan, a curious and quick learner Full Stack Software Engineer.<br>
+I like to play and collect video games.<br>
+I'm a aviation enthusiast and will pursue my private pilot license soon.<br>
 
 <br>
 Tech Stack:
@@ -24,7 +18,7 @@ Tech Stack:
 <br>
 
 •Languages: JavaScript, Ruby, HTML, CSS, SQL.<br>
-•Frameworks/Libraries: React, Ruby on Rails, Node, Express, NPM.<br>
+•Frameworks/Libraries: React, Ruby on Rails, Node, Express, NPM, Bootstrap.<br>
 •Databases: Postgres, MongoDB.<br>
 •Tools: VS Code, Heroku, Netlify, GitHub, Postman.<br>
 •Dev Practices: Clean Code, Reusability, Scalability, Collaboration, Pair/Mob programming.<br>
