@@ -17,10 +17,10 @@ Tech Stack:
 <br>
 <br>
 
-•Languages: JavaScript, Ruby, HTML, CSS.<br>
+•Languages: JavaScript, Ruby, Java, HTML, CSS.<br>
 •Frameworks/Libraries: React, Ruby on Rails, Node, Express, Bootstrap.<br>
 •Databases: Postgres, MongoDB.<br>
-•Tools: VS Code, Heroku, Netlify, Render, Atlas, GitHub, Postman, Cloudinary, Mapbox.<br>
+•Tools: VS Code, Heroku, Netlify, Render, Atlas, Git, Github, Postman, Cloudinary, Mapbox.<br>
 •Dev Practices: Clean Code, Reusability, Scalability, Collaboration, Pair/Mob programming.<br>
 
   
@@ -57,8 +57,10 @@ Tech Stack:
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" title="Express" alt="Express " width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VsCode" alt="" width="40" height="40"/>&nbsp;
 </div>
-
   
 </div>
   <br>
