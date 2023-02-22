@@ -45,7 +45,7 @@ Tech Stack:
   
   <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,react,jest,html,css,bootstrap,ruby,rails,java,nodejs,express,mongodb,postgres,git,idea,linux,postman,vscode,heroku,netlify&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,react,jest,html,css,bootstrap,ruby,rails,java,nodejs,express,mongodb,postgres,sqlite,git,idea,linux,postman,vscode,heroku,netlify&perline=7" />
   </a>
 </p>
   
